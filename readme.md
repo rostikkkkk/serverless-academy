@@ -1,0 +1,1 @@
+## Project created for serverless-academy tasks

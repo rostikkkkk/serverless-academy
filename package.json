@@ -1,0 +1,19 @@
+{
+  "name": "serverless-academy",
+  "version": "1.0.0",
+  "description": "project created for serverless-academy tasks",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rostikkkkk/serverless-academy.git"
+  },
+  "author": "@rostikkkkk",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rostikkkkk/serverless-academy/issues"
+  },
+  "homepage": "https://github.com/rostikkkkk/serverless-academy#readme"
+}
